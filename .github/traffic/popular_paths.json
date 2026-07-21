@@ -1,0 +1,67 @@
+[
+  {
+    "fetched_at": "2026-07-21T11:00:31Z",
+    "paths": [
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs",
+        "title": "Overview",
+        "count": 11,
+        "uniques": 1
+      },
+      {
+        "path": "/aws-samples/amazon-redshift-udfs/compare/master...rjvgupta:amazon-redshift-udfs:master",
+        "title": "dfs/compare/master...rjvgupta:amazon-redshift-udfs:master",
+        "count": 7,
+        "uniques": 1
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/pulls",
+        "title": "/pulls",
+        "count": 6,
+        "uniques": 1
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/branches",
+        "title": "/branches",
+        "count": 5,
+        "uniques": 1
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/tree/master/.github",
+        "title": "/tree/master/.github",
+        "count": 4,
+        "uniques": 1
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/tree/master/.github/traffic",
+        "title": "/tree/master/.github/traffic",
+        "count": 4,
+        "uniques": 1
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/actions/runs/29739258444",
+        "title": "/actions/runs/29739258444",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/blob/master/.github/traffic/index.html",
+        "title": "/blob/master/.github/traffic/index.html",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/tree/master/docs/traffic",
+        "title": "/tree/master/docs/traffic",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/actions",
+        "title": "/actions",
+        "count": 1,
+        "uniques": 1
+      }
+    ]
+  }
+]
