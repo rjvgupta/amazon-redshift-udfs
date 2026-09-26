@@ -1302,5 +1302,28 @@
         "uniques": 1
       }
     ]
+  },
+  {
+    "fetched_at": "2026-09-26T13:32:23Z",
+    "paths": [
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/blob/master/CONTRIBUTING.md",
+        "title": "/blob/master/CONTRIBUTING.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/blob/master/LICENSE.txt",
+        "title": "/blob/master/LICENSE.txt",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/forks",
+        "title": "/forks",
+        "count": 1,
+        "uniques": 1
+      }
+    ]
   }
 ]
