@@ -1516,5 +1516,34 @@
         "uniques": 1
       }
     ]
+  },
+  {
+    "fetched_at": "2026-10-04T14:32:00Z",
+    "paths": [
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs",
+        "title": "Overview",
+        "count": 3,
+        "uniques": 3
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/blob/master/CONTRIBUTING.md",
+        "title": "/blob/master/CONTRIBUTING.md",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/blob/master/NOTICE.txt",
+        "title": "/blob/master/NOTICE.txt",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/blob/master/README.md",
+        "title": "/blob/master/README.md",
+        "count": 1,
+        "uniques": 1
+      }
+    ]
   }
 ]
