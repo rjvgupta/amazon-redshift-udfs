@@ -3363,5 +3363,34 @@
         "uniques": 1
       }
     ]
+  },
+  {
+    "fetched_at": "2026-11-28T17:17:00Z",
+    "paths": [
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs",
+        "title": "Overview",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/blob/master/CONTRIBUTING.md",
+        "title": "/blob/master/CONTRIBUTING.md",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/blob/master/README.md",
+        "title": "/blob/master/README.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/rjvgupta/amazon-redshift-udfs/commits/master/CONTRIBUTING.md",
+        "title": "/commits/master/CONTRIBUTING.md",
+        "count": 1,
+        "uniques": 1
+      }
+    ]
   }
 ]
